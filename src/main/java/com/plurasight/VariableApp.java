@@ -10,6 +10,13 @@ public static void main(String[] args) {
 
         short yearStartedProgram = 2026;
         System.out.println("I started YearUp United in " + yearStartedProgram);
+
+        char middleInitial = 'm';
+        System.out.println("My Middle initial is " + middleInitial);
+
+
+
+
     }
 
 
