@@ -21,7 +21,7 @@ public static void main(String[] args) {
 
         String goodMessage = "Even if your not ready for the day,";
         System.out.println(goodMessage + " it cannot always be night");
-
+//Exercise two below
         int daysInWeek = 7;
         System.out.println("There are " + daysInWeek + " days in a week.");
 
@@ -30,6 +30,11 @@ public static void main(String[] args) {
 
         char favoriteLetter = 'J';
         System.out.println("My favorite  letter is " + favoriteLetter + ".");
+
+        boolean isRaining = false;
+        System.out.println(" Is it raining? " + isRaining + ".");
+
+
 
 
 
