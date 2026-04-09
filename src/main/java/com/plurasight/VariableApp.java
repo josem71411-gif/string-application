@@ -1,5 +1,7 @@
 package com.plurasight;
 
+import javax.swing.plaf.synth.SynthTextAreaUI;
+
 public class VariableApp {
 
 
@@ -21,12 +23,10 @@ public static void main(String[] args) {
         System.out.println(goodMessage + " it cannot always be night");
 
         int daysInWeek = 7;
-        System.out.println("There are " + daysInWeek + " Days in a week.");
+        System.out.println("There are " + daysInWeek + " days in a week.");
 
-
-
-
-
+        double coffeePrice = 4.99;
+        System.out.println("My favorite Letter is $" + coffeePrice + ".");
 
     }
 
