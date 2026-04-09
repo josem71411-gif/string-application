@@ -20,6 +20,10 @@ public static void main(String[] args) {
         String goodMessage = "Even if your not ready for the day,";
         System.out.println(goodMessage + " it cannot always be night");
 
+        int daysInWeek = 7;
+        System.out.println("There are " + daysInWeek + " Days in a week.");
+
+
 
 
 
