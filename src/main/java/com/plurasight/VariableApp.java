@@ -28,6 +28,14 @@ public static void main(String[] args) {
         double coffeePrice = 4.99;
         System.out.println("My favorite Letter is $" + coffeePrice + ".");
 
+        char favoriteLetter = 'J';
+        System.out.println("My favorite  letter is " + favoriteLetter + ".");
+
+
+
+
+
+
     }
 
 
