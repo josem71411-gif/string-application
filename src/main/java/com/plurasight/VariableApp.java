@@ -17,6 +17,9 @@ public static void main(String[] args) {
         boolean hasPets = true;
         System.out.println("Do I have pets? " + hasPets);
 
+        String goodMessage = "Even if your not ready for the day,";
+        System.out.println(goodMessage + " it cannot always be night");
+
 
 
 
