@@ -14,6 +14,10 @@ public static void main(String[] args) {
         char middleInitial = 'm';
         System.out.println("My Middle initial is " + middleInitial);
 
+        boolean hasPets = true;
+        System.out.println("Do I have pets? " + hasPets);
+
+
 
 
 
